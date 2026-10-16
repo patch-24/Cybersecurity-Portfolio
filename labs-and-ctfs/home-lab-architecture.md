@@ -95,23 +95,23 @@ I hosted these on **Alpine**.
 
 | 🎯 Application | 🔌 Service | 🚪 Port |
 |---|---|---|
-| [**crAPI**](./crapi-walkthrough.md) | Web app | 8888 |
+| [[**crAPI**](./Vulnerable-Web-Applications/crapi.md)](./crapi-walkthrough.md) | Web app | 8888 |
 | | Mailhog | 8025 |
-| **VulnBank** | Web app | 5000 |
-| **Juice Shop** 🧃 | Web app | 3000 |
-| **DVWP** (WordPress) | Web app | 31338 |
+| [**VulnBank**](./Vulnerable-Web-Applications/vulnbank.md) | Web app | 5000 |
+| [**Juice Shop**](./Vulnerable-Web-Applications/juice-shop.md) 🧃 | Web app | 3000 |
+| [**DVWP**](./Vulnerable-Web-Applications/dvwp.md) (WordPress) | Web app | 31338 |
 | | phpMyAdmin | 31339 |
 | | Mailpit | 31340 |
 | | Adminer | 31341 |
-| **OWASP WebGoat** | WebGoat | 8080 |
+| [**OWASP WebGoat**](./Vulnerable-Web-Applications/webgoat.md) | WebGoat | 8080 |
 | | WebWolf | 9090 |
-| **Mutillidae** | Web app | 4380 |
+| [**Mutillidae**](./Vulnerable-Web-Applications/mutillidae.md) | Web app | 4380 |
 | | Scan port | 4388 |
 | | HTTPS | 4343 |
 | | phpMyAdmin | 4381 |
 | | phpLDAPAdmin | 4382 |
-| **DVGA** (GraphQL) | Web app | 4513 |
-| [**bWAPP**](./bwapp-vulnerability-labs.md) 🐝 | Web app | 4514 |
+| [**DVGA**](./Vulnerable-Web-Applications/dvga.md) (GraphQL) | Web app | 4513 |
+| [[**bWAPP**](./Vulnerable-Web-Applications/bwapp.md)](./Vulnerable-Web-Applications/bwapp.md) 🐝 | Web app | 4514 |
 
 ---
 

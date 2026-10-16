@@ -54,8 +54,8 @@ Every box below has been **pwned** ✅, sorted by the style of attack. Click a n
 
 | 🖥️ Machine | 🌍 Platform | 🔥 What I Exploited |
 |---|---|---|
-| [**bWAPP**](./labs-and-ctfs/bwapp-vulnerability-labs.md) 🐝 | bWAPP | HTML Injection, Command Injection, and Brute Force. |
-| [**crAPI**](./labs-and-ctfs/crapi-walkthrough.md) 🔌 | OWASP | Web security and API testing. APIs trust way too easily. |
+| [**bWAPP**](./labs-and-ctfs/Vulnerable-Web-Applications/bwapp.md) 🐝 | bWAPP | HTML Injection, Command Injection, and Brute Force. |
+| [**crAPI**](./labs-and-ctfs/Vulnerable-Web-Applications/crapi.md) 🔌 | OWASP | Web security and API testing. APIs trust way too easily. |
 | [**Mr. Robot**](./labs-and-ctfs/mr-robot-walkthrough.md) 🤖 | VulnHub | Web discovery and privilege escalation. *"Hello, friend."* |
 | [**DC: 1**](./labs-and-ctfs/dc-1-walkthrough.md) | VulnHub | Drupal and a SUID privilege escalation. |
 | [**DC: 9**](./labs-and-ctfs/dc-9-walkthrough.md) | VulnHub | SQL injection and port knocking. |
