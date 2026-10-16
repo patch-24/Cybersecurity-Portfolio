@@ -88,7 +88,10 @@ Every machine below has been **pwned** ✅. Click a name to read the write-up.
 
 ## 🕸️ Website Pentesting Vulnerable Endpoints
 
-**Alpine** is a lightweight VM that hosts Docker containers running several intentionally vulnerable web applications.
+I hosted these on **Alpine**.
+
+
+**Alpine:** a lightweight VM that hosts Docker containers running several intentionally vulnerable web applications.
 
 | 🎯 Application | 🔌 Service | 🚪 Port |
 |---|---|---|
