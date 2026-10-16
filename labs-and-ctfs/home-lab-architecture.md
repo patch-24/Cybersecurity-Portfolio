@@ -111,7 +111,7 @@ I hosted these on **Alpine**.
 | | phpMyAdmin | 4381 |
 | | phpLDAPAdmin | 4382 |
 | [**DVGA**](./Vulnerable-Web-Applications/dvga.md) (GraphQL) | Web app | 4513 |
-| [[**bWAPP**](./Vulnerable-Web-Applications/bwapp.md)](./Vulnerable-Web-Applications/bwapp.md) 🐝 | Web app | 4514 |
+| [**bWAPP**](./Vulnerable-Web-Applications/bwapp.md) 🐝 | Web app | 4514 |
 
 ---
 
