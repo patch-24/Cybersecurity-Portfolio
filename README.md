@@ -40,7 +40,7 @@ I'm a cybersecurity professional-in-the-making who learns by **doing**: breaking
 
 ## 🏆 Labs & CTF Hall of Fame
 
-Every box below has been **pwned** ✅, sorted by the style of attack. Click a name to read the write-up.
+Every box below has been **pwned** ✅, sorted by the style of attack. Click a name and see the magic 🪄✨.
 
 ### 🏠 Home Base
 *Every hacker needs a safe place to break things.*
