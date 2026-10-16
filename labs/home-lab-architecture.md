@@ -13,7 +13,6 @@ To safely practice security testing, I built an isolated virtual network environ
   * Metasploitable 3
   * Troll 1 & 2
   * Mr Robot CTF
-  * 
 
 * **WEbsite PenTesting Vulnerable Endpoints:**
   * Alpine - a VM that I use to host docker containers containing several vulnerable Web Applications.
