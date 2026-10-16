@@ -95,7 +95,7 @@ I hosted these on **Alpine**.
 
 | 🎯 Application | 🔌 Service | 🚪 Port |
 |---|---|---|
-| [[**crAPI**](./Vulnerable-Web-Applications/crapi.md)](./crapi-walkthrough.md) | Web app | 8888 |
+| [**crAPI**](./Vulnerable-Web-Applications/crapi.md)(./crapi-walkthrough.md) | Web app | 8888 |
 | | Mailhog | 8025 |
 | [**VulnBank**](./Vulnerable-Web-Applications/vulnbank.md) | Web app | 5000 |
 | [**Juice Shop**](./Vulnerable-Web-Applications/juice-shop.md) 🧃 | Web app | 3000 |
