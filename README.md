@@ -72,8 +72,8 @@ Every box below has been **pwned** ✅, sorted by the style of attack. Click a n
 | 🖥️ Machine | 🌍 Platform | 🔥 What I Exploited |
 |---|---|---|
 | [**Metasploitable 2**](./labs/metasploitable2-walkthrough.md) 💀 | Rapid7 | Network exploitation *plus* remediation mapping, because breaking is only half the job. |
-| [**Kioptrix Level 1**](./labs/kioptrix-lv1-walkthrough.md) 🌱 | VulnHub | Beginner-friendly boot2root. My first "I'm in" moment. |
-| [**Kioptrix Level 2**](./labs/kioptrix-lv2-walkthrough.md) 🌿 | VulnHub | Beginner to intermediate boot2root. The difficulty dial gets nudged up. |
+| [**Kioptrix Level 1**](./labs/kioptrix-Lv1.md) 🌱 | VulnHub | Beginner-friendly boot2root. My first "I'm in" moment. |
+| [**Kioptrix Level 2**](./labs/kioptrix-Lv2.md) 🌿 | VulnHub | Beginner to intermediate boot2root. The difficulty dial gets nudged up. |
 | [**Basic Pentesting 1**](./labs/basic-pentesting-1-walkthrough.md) | VulnHub | Service enumeration and password attacks. |
 | [**Stapler 1**](./labs/stapler-1-walkthrough.md) | VulnHub | Tons of services and several paths to root. |
 | [**LazySysAdmin**](./labs/lazysysadmin-walkthrough.md) | VulnHub | SMB enumeration and weak configs. |
