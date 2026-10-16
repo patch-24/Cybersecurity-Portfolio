@@ -56,67 +56,65 @@ Every box below has been **pwned** ✅, sorted by the style of attack. Click a n
 |---|---|---|
 | [**bWAPP**](./labs-and-ctfs/Vulnerable-Web-Applications/bwapp.md) 🐝 | bWAPP | HTML Injection, Command Injection, and Brute Force. |
 | [**crAPI**](./labs-and-ctfs/Vulnerable-Web-Applications/crapi.md) 🔌 | OWASP | Web security and API testing. APIs trust way too easily. |
-| [**Mr. Robot**](./labs-and-ctfs/mr-robot-walkthrough.md) 🤖 | VulnHub | Web discovery and privilege escalation. *"Hello, friend."* |
-| [**DC: 1**](./labs-and-ctfs/dc-1-walkthrough.md) | VulnHub | Drupal and a SUID privilege escalation. |
-| [**DC: 9**](./labs-and-ctfs/dc-9-walkthrough.md) | VulnHub | SQL injection and port knocking. |
-| [**SickOs 1.1**](./labs-and-ctfs/sickos-1.1-walkthrough.md) | VulnHub | A proxy and a CMS exploit. |
-| [**PwnLab: init**](./labs-and-ctfs/pwnlab-init-walkthrough.md) | VulnHub | LFI and file upload tricks. |
-| [**Zico2**](./labs-and-ctfs/zico2-walkthrough.md) | VulnHub | LFI, phpLiteAdmin, and sudo abuse. |
-| [**Lampiao**](./labs-and-ctfs/lampiao-walkthrough.md) 🐄 | VulnHub | Drupal exploit plus the Dirty COW kernel exploit. |
-| [**Billu Box 2**](./labs-and-ctfs/billu-box-2-walkthrough.md) | VulnHub | Chained web vulns and a kernel/sudo escalation. |
-| [**Node: 1**](./labs-and-ctfs/node-1-walkthrough.md) | VulnHub | Node.js app with an API, backup files, and a SUID binary. |
-| [**Brainfuck**](./labs-and-ctfs/brainfuck-walkthrough.md) 🧠 | Hack The Box | Crypto, WordPress, and an SSH key crack. |
+| [**Mr. Robot**](./labs-and-ctfs/labs/mr-robot-walkthrough.md) 🤖 | VulnHub | Web discovery and privilege escalation. *"Hello, friend."* |
+| [**DC: 1**](./labs-and-ctfs/labs/dc-1-walkthrough.md) | VulnHub | Drupal and a SUID privilege escalation. |
+| [**DC: 9**](./labs-and-ctfs/labs/dc-9-walkthrough.md) | VulnHub | SQL injection and port knocking. |
+| [**SickOs 1.1**](./labs-and-ctfs/labs/sickos-1.1-walkthrough.md) | VulnHub | A proxy and a CMS exploit. |
+| [**PwnLab: init**](./labs-and-ctfs/labs/pwnlab-init-walkthrough.md) | VulnHub | LFI and file upload tricks. |
+| [**Zico2**](./labs-and-ctfs/labs/zico2-walkthrough.md) | VulnHub | LFI, phpLiteAdmin, and sudo abuse. |
+| [**Lampiao**](./labs-and-ctfs/labs/lampiao-walkthrough.md) 🐄 | VulnHub | Drupal exploit plus the Dirty COW kernel exploit. |
+| [**Billu Box 2**](./labs-and-ctfs/labs/billu-box-2-walkthrough.md) | VulnHub | Chained web vulns and a kernel/sudo escalation. |
+| [**Node: 1**](./labs-and-ctfs/labs/node-1-walkthrough.md) | VulnHub | Node.js app with an API, backup files, and a SUID binary. |
+| [**Brainfuck**](./labs-and-ctfs/labs/brainfuck-walkthrough.md) 🧠 | Hack The Box | Crypto, WordPress, and an SSH key crack. |
 
 ### 🕶️ Black Box: Enumerate Everything
 *No hints, no mercy. Just me, Nmap, and a lot of patience.*
 
 | 🖥️ Machine | 🌍 Platform | 🔥 What I Exploited |
 |---|---|---|
-| [**Metasploitable 2**](./labs-and-ctfs/metasploitable2-walkthrough.md) 💀 | Rapid7 | Network exploitation *plus* remediation mapping, because breaking is only half the job. |
-| [**Kioptrix Level 1**](./labs-and-ctfs/kioptrix-Lv1.md) 🌱 | VulnHub | Beginner-friendly boot2root. My first "I'm in" moment. |
-| [**Kioptrix Level 2**](./labs-and-ctfs/kioptrix-Lv2.md) 🌿 | VulnHub | Beginner to intermediate boot2root. The difficulty dial gets nudged up. |
-| [**Basic Pentesting 1**](./labs-and-ctfs/basic-pentesting-1-walkthrough.md) | VulnHub | Service enumeration and password attacks. |
-| [**Stapler 1**](./labs-and-ctfs/stapler-1-walkthrough.md) | VulnHub | Tons of services and several paths to root. |
-| [**LazySysAdmin**](./labs-and-ctfs/lazysysadmin-walkthrough.md) | VulnHub | SMB enumeration and weak configs. |
-| [**Moria 1.1**](./labs-and-ctfs/moria-1.1-walkthrough.md) | VulnHub | Heavy brute-force and enumeration work. |
-| [**Lord of the Root 1.0.1**](./labs-and-ctfs/lord-of-the-root-walkthrough.md) | VulnHub | Port knocking, SQL injection, and a kernel escalation. |
+| [**Metasploitable 2**](./labs-and-ctfs/labs/metasploitable2-walkthrough.md) 💀 | Rapid7 | Network exploitation *plus* remediation mapping, because breaking is only half the job. |
+| [**Kioptrix Level 1**](./labs-and-ctfs/labs/kioptrix-lv1-walkthrough.md) 🌱 | VulnHub | Beginner-friendly boot2root. My first "I'm in" moment. |
+| [**Kioptrix Level 2**](./labs-and-ctfs/labs/kioptrix-lv2-walkthrough.md) 🌿 | VulnHub | Beginner to intermediate boot2root. The difficulty dial gets nudged up. |
+| [**Basic Pentesting 1**](./labs-and-ctfs/labs/basic-pentesting-1-walkthrough.md) | VulnHub | Service enumeration and password attacks. |
+| [**Stapler 1**](./labs-and-ctfs/labs/stapler-1-walkthrough.md) | VulnHub | Tons of services and several paths to root. |
+| [**LazySysAdmin**](./labs-and-ctfs/labs/lazysysadmin-walkthrough.md) | VulnHub | SMB enumeration and weak configs. |
+| [**Moria 1.1**](./labs-and-ctfs/labs/moria-1.1-walkthrough.md) | VulnHub | Heavy brute-force and enumeration work. |
+| [**Lord of the Root 1.0.1**](./labs-and-ctfs/labs/lord-of-the-root-walkthrough.md) | VulnHub | Port knocking, SQL injection, and a kernel escalation. |
 
 ### 💥 Binary Exploitation & Buffer Overflows
 *Smashing the stack for fun and OSCP prep.*
 
 | 🖥️ Machine | 🌍 Platform | 🔥 What I Exploited |
 |---|---|---|
-| [**Brainpan 1**](./labs-and-ctfs/brainpan-1-walkthrough.md) | VulnHub | Windows-style buffer overflow. |
-| [**Brainpan 2**](./labs-and-ctfs/brainpan-2-walkthrough.md) | VulnHub | Harder binary exploitation and a tricky privilege escalation. |
-| [**Pinky's Palace v1**](./labs-and-ctfs/pinkys-palace-v1-walkthrough.md) | VulnHub | Enumeration mixed with a binary exploit. |
+| [**Brainpan 1**](./labs-and-ctfs/labs/brainpan-1-walkthrough.md) | VulnHub | Windows-style buffer overflow. |
+| [**Brainpan 2**](./labs-and-ctfs/labs/brainpan-2-walkthrough.md) | VulnHub | Harder binary exploitation and a tricky privilege escalation. |
+| [**Pinky's Palace v1**](./labs-and-ctfs/labs/pinkys-palace-v1-walkthrough.md) | VulnHub | Enumeration mixed with a binary exploit. |
 
 ### 🔀 Pivoting & Multi-Host Networks
 *One machine down, the rest of the network to go.*
 
 | 🖥️ Machine | 🌍 Platform | 🔥 What I Exploited |
 |---|---|---|
-| [**Symfonos 2**](./labs-and-ctfs/symfonos-2-walkthrough.md) | VulnHub | SMB, LibreNMS, and a pivoting chain. |
-| [**Wintermute 1**](./labs-and-ctfs/wintermute-1-walkthrough.md) | VulnHub | A two-machine network that requires pivoting. |
-| [**Wreath**](./labs-and-ctfs/wreath-walkthrough.md) | TryHackMe | Multi-host network with pivoting and a Windows target. |
+| [**Symfonos 2**](./labs-and-ctfs/labs/symfonos-2-walkthrough.md) | VulnHub | SMB, LibreNMS, and a pivoting chain. |
+| [**Wintermute 1**](./labs-and-ctfs/labs/wintermute-1-walkthrough.md) | VulnHub | A two-machine network that requires pivoting. |
+| [**Wreath**](./labs-and-ctfs/labs/wreath-walkthrough.md) | TryHackMe | Multi-host network with pivoting and a Windows target. |
 
 ### 🧩 Puzzle & Mind Games
 *Where the box is actively trying to waste your time.*
 
 | 🖥️ Machine | 🌍 Platform | 🔥 What I Exploited |
 |---|---|---|
-| [**Tr0ll 1**](./labs-and-ctfs/troll-1-walkthrough.md) 🧌 | VulnHub | Puzzle-style CTF logic, with plenty of trolling. |
-| [**Tr0ll 2**](./labs-and-ctfs/troll-2-walkthrough.md) 🧌 | VulnHub | Web enumeration, Shellshock, and a binary exploit for root. The trolls came back angrier. |
+| [**Tr0ll 1**](./labs-and-ctfs/labs/troll-1-walkthrough.md) 🧌 | VulnHub | Puzzle-style CTF logic, with plenty of trolling. |
+| [**Tr0ll 2**](./labs-and-ctfs/labs/troll-2-walkthrough.md) 🧌 | VulnHub | Web enumeration, Shellshock, and a binary exploit for root. The trolls came back angrier. |
 
 ---
 
 ## 📈 Progress Tracker
 
-```
 Nmap scans run ............ ████████████████████ ∞
 Reverse shells popped ..... ██████████████░░░░░░ plenty
-Times I said "why isn't this working?" ... ████████████████████ 💀
+Times I said “why isn’t this working?” ... ████████████████████ 💀
 Times it was a typo ....... ███████████████████░ most of them
-```
 
 ---
 
