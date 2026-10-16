@@ -33,6 +33,7 @@ Every machine below has been **pwned** ✅. Click a name to read the write-up.
 | 🖥️ Machine | 🌍 Source |
 |---|---|
 | [Metasploitable 2](./metasploitable2-walkthrough.md) 💀 | Rapid7 |
+| [Metasploitable 2(Web Server)](./Web-Server-Penetration-Testing.md) 💀 | Rapid7 |
 | [Metasploitable 3](./metasploitable3-walkthrough.md) 💀 | Rapid7 |
 | [Kioptrix Level 1](./kioptrix-lv1-walkthrough.md) 🌱 | VulnHub |
 | [Kioptrix Level 2](./kioptrix-lv2-walkthrough.md) 🌿 | VulnHub |
