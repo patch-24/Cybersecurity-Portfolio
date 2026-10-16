@@ -111,10 +111,12 @@ Every box below has been **pwned** ✅, sorted by the style of attack. Click a n
 
 ## 📈 Progress Tracker
 
+```
 Nmap scans run ............ ████████████████████ ∞
 Reverse shells popped ..... ██████████████░░░░░░ plenty
-Times I said “why isn’t this working?” ... ████████████████████ 💀
+Times I said "why isn't this working?" ... ████████████████████ 💀
 Times it was a typo ....... ███████████████████░ most of them
+```
 
 ---
 
