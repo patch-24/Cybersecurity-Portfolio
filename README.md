@@ -8,12 +8,13 @@
 ![Coffee](https://img.shields.io/badge/Coffee-Dangerously%20High-brown?style=for-the-badge)
 ![Ethics](https://img.shields.io/badge/Hat-White-white?style=for-the-badge)
 
-```
-root@portfolio:~# whoami
-> a focused cybersecurity pro documenting the journey
-> (and yes, I broke my own lab a few times. It's called "learning.")
-```
+<div align="center">
 
+<code>root@portfolio:~# whoami</code><br>
+<code>> a focused cybersecurity pro documenting the journey</code><br>
+<code>> (and yes, I broke my own lab a few times. It's called "learning.")</code>
+
+</div>
 </div>
 
 ---
