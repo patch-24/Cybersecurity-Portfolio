@@ -104,6 +104,7 @@ Every box below has been **pwned** ✅, sorted by the style of attack. Click a n
 | 🖥️ Machine | 🌍 Platform | 🔥 What I Exploited |
 |---|---|---|
 | [**Tr0ll 1**](./labs/troll-1-walkthrough.md) 🧌 | VulnHub | Puzzle-style CTF logic, with plenty of trolling. |
+| [**Tr0ll 2**](./labs/troll-2-walkthrough.md) 🧌 | VulnHub | Web enumeration, Shellshock, and a binary exploit for root. The trolls came back angrier. |
 
 ---
 
